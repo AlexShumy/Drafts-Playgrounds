@@ -1,3 +1,3 @@
 # Drafts-Playgrounds
 
-There only draft codes and playground in this folder
+There only draft codes and playgrounds in this folder
